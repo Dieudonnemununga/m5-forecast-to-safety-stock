@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Forecast Accuracy Is Not Enough: code and results"
+version: 1.1.0
+date-released: 2026-10-22
+license: MIT
+authors:
+  - family-names: "Mununga Kawika"
+    given-names: "Dieudonné"
+    affiliation: "Université Don Bosco de Lubumbashi"
+  - family-names: "Ferchichi"
+    given-names: "Olfa"
+    affiliation: "Université Don Bosco de Lubumbashi"
+keywords:
+  - demand forecasting
+  - safety stock
+  - inventory simulation
+  - M5
